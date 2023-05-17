@@ -1,0 +1,40 @@
+.ecommerce-bg{
+    background-color: #f5f7fa;
+    background-size: cover;
+   
+    padding: 10px;
+} 
+h1{
+    color: #183b56;
+    font-size: 25px;
+} 
+.gadgets-bg{
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    background-size: cover;
+    margin: 10px;
+    
+} 
+.heading1{
+    font-size: 20px;
+    font-weight: bold;
+} 
+.image1{
+    height: 80px;
+    border-radius: 15px;
+    margin: 8px;
+    margin-inline-start: 1px;
+} 
+p{
+    margin-inline-start: 18px;
+} 
+.para{
+    color: #ff9f00;
+    font-weight: bold;
+} 
+.image2{
+    height: 30vh; 
+    border-radius: 15px;
+    margin: 10px;
+}
